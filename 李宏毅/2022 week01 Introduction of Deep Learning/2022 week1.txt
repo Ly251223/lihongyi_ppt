@@ -1,0 +1,25 @@
+
+https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
+
+Date	Topic	Preparation - zh	Preparation - en	Class Material	Extra Material
+2/18	Lecture 1:Introduction of Deep Learning	 影片 1
+ 影片 2
+ Video 1
+ Video 2	2022:
+Introduction
+ Week 1
+ Pytorch 1
+ Pytorch 2
+ Colab
+
+Rules:  ppt /  pdf
+Class intro:  ppt /  pdf
+Pytorch Tutorial 1:  pdf
+Pytorch Tutorial 2:  pdf
+Colab Tutorial:  pdf
+Environment Setup  pdf
+ Introduction of Deep Learning
+ Backpropagation
+ Predicting Pokémon CP
+ Pokemon classification
+ Logistic Regression
